@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Image-gallery-using-ReactJS/static/css/main.c5426f66.css",
+    "main.js": "/Image-gallery-using-ReactJS/static/js/main.7d664eae.js",
+    "static/js/488.742bb3ce.chunk.js": "/Image-gallery-using-ReactJS/static/js/488.742bb3ce.chunk.js",
+    "index.html": "/Image-gallery-using-ReactJS/index.html",
+    "main.c5426f66.css.map": "/Image-gallery-using-ReactJS/static/css/main.c5426f66.css.map",
+    "main.7d664eae.js.map": "/Image-gallery-using-ReactJS/static/js/main.7d664eae.js.map",
+    "488.742bb3ce.chunk.js.map": "/Image-gallery-using-ReactJS/static/js/488.742bb3ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5426f66.css",
+    "static/js/main.7d664eae.js"
+  ]
+}
